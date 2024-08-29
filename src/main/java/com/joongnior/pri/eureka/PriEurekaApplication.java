@@ -1,4 +1,4 @@
-package com.joongnior.pri_eureka;
+package com.joongnior.pri.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
